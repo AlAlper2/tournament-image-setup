@@ -1,0 +1,4 @@
+images/
+*.psd
+*.png
+__pycache__/
